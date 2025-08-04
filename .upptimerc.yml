@@ -1,36 +1,157 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: RedGeckoAgency
+repo: multisite-uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    - name: Arlington Care
+      url: https://arlington-care.net
+    - name: Austin Trace
+      url: https://austin-trace.net
+    - name: Bennington Glen
+      url: https://bennington-glen.net
+    - name: Capri Gardens
+      url: https://capri-gardens.net
+    - name: Countryview Sunbury
+      url: https://countryview-sunbury.net
+    - name: Crown Pointe
+      url: https://crown-pointe.net
+    - name: Darby Glenn
+      url: https://darby-glenn.net
+    - name: Gables Marysville
+      url: https://gables-marysville.net
+    - name: Glen Meadows
+      url: https://glen-meadows.net
+    - name: Meadows Marion
+      url: https://meadows-marion.net
+    - name: Johnstown Pointe
+      url: https://johnstown-pointe.net
+    - name: Landingsofwesterville
+      url: https://landingsofwesterville.net
+    - name: Maria Joseph
+      url: https://maria-joseph.net
+    - name: Mcnaughten Pointe
+      url: https://mcnaughten-pointe.net
+    - name: Meadow Grove
+      url: https://meadow-grove.net
+    - name: Taylors Pointe
+      url: https://taylors-pointe.net
+    - name: Terrace View
+      url: https://terrace-view.net
+    - name: Trueman Pointe
+      url: https://trueman-pointe.net
+    - name: Tuscany Gardens
+      url: https://tuscany-gardens.net
+    - name: Verandagardens
+      url: https://verandagardens.net
+    - name: Admirals Pointe
+      url: https://admirals-pointe.net
+    - name: Batavia Care
+      url: https://batavia-care.net
+    - name: Brunswick Pointe
+      url: https://brunswick-pointe.net
+    - name: Dayton Respiratory
+      url: https://dayton-respiratory.net
+    - name: Glenn Crossing
+      url: https://glenn-crossing.net
+    - name: Goldenyears Care
+      url: https://goldenyears-care.net
+    - name: Hearthstone Care
+      url: https://hearthstone-care.net
+    - name: Highbanks Care
+      url: https://highbanks-care.net
+    - name: Inniswood
+      url: https://inniswood.net
+    - name: Overbrook Landing
+      url: https://overbrook-landing.net
+    - name: Canterbury Villa
+      url: https://canterbury-villa.net
+    - name: Carington Park
+      url: https://carington-park.net
+    - name: Champion Creek
+      url: https://champion-creek.net
+    - name: Claymont Health
+      url: https://claymont-health.net
+    - name: Concord Care
+      url: https://concord-care.net
+    - name: Concord Ridge
+      url: https://concord-ridge.net
+    - name: Crocker Pointe
+      url: https://crocker-pointe.net
+    - name: Cumberland Pointe
+      url: https://cumberland-pointe.net
+    - name: Emerald Pointe
+      url: https://emerald-pointe.net
+    - name: Florentine Gardens
+      url: https://florentine-gardens.net
+    - name: Gardens Fairfax
+      url: https://gardens-fairfax.net
+    - name: Heritageofhudson
+      url: https://heritageofhudson.net
+    - name: Hickory Care
+      url: https://hickory-care.net
+    - name: Hickory Creek
+      url: https://hickory-creek.net
+    - name: Huntington Woods
+      url: https://huntington-woods.net
+    - name: Jefferson Healthcare
+      url: https://jefferson-healthcare.net
+    - name: Keystone Pointe
+      url: https://keystone-pointe.net
+    - name: Lafayette Care
+      url: https://lafayette-care.net
+    - name: Mentor Ridge
+      url: https://mentor-ridge.net
+    - name: Millcreek Care
+      url: https://millcreek-care.net
+    - name: Huntington Court
+      url: https://huntington-court.net
+    - name: Oak Pointe
+      url: https://oak-pointe.net
+    - name: Park Health
+      url: https://park-health.net
+    - name: Pinegrove Care
+      url: https://pinegrove-care.net
+    - name: Riverview Pointe
+      url: https://riverview-pointe.net
+    - name: Rockland Ridge
+      url: https://rockland-ridge.net
+    - name: Salem Woods
+      url: https://salem-woods.net
+    - name: Saybrook Landing
+      url: https://saybrook-landing.net
+    - name: Scenic Pointe
+      url: https://scenic-pointe.net
+    - name: Siena Gardens
+      url: https://siena-gardens.net
+    - name: French Creek
+      url: https://french-creek.net
+    - name: Sycamore Run
+      url: https://sycamore-run.net
+    - name: Tamarack Ridge
+      url: https://tamarack-ridge.net
+    - name: The Preserve
+      url: https://the-preserve.net
+    - name: Timberland Ridge
+      url: https://timberland-ridge.net
+    - name: Venetian Gardens
+      url: https://venetian-gardens.net
+    - name: Waterview Pointe
+      url: https://waterview-pointe.net
+    - name: 3.13.23.211.nip.io
+      url: https://3.13.23.211.nip.io
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    # Add your custom domain name, or remove the `cname` line if you don't have a domain
+    # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+    # cname: demo.upptime.js.org
+    # baseUrl: /your-repo-name
+    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    name: Upptime
+    introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+    introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+    navbar:
+        - title: Status
+          href: /
+        - title: GitHub
+          href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
