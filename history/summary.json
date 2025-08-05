@@ -113,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/darby-glenn.net.ico",
     "slug": "darby-glenn",
     "status": "up",
-    "uptime": "94.38%",
-    "uptimeDay": "94.38%",
-    "uptimeWeek": "94.38%",
-    "uptimeMonth": "94.38%",
-    "uptimeYear": "94.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 513,
     "timeWeek": 513,
     "timeMonth": 513,
     "timeYear": 513,
-    "dailyMinutesDown": {
-      "2025-08-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gables Marysville",
