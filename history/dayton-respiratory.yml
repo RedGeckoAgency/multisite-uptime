@@ -1,7 +1,7 @@
 url: https://dayton-respiratory.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-16T14:26:00.631Z
+status: up
+code: 200
+responseTime: 546
+lastUpdated: 2025-08-16T14:34:49.743Z
 startTime: 2025-08-04T21:55:57.906Z
 generator: Upptime <https://github.com/upptime/upptime>
