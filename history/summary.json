@@ -170,18 +170,20 @@
     "url": "https://meadows-marion.net",
     "icon": "https://icons.duckduckgo.com/ip3/meadows-marion.net.ico",
     "slug": "meadows-marion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 581,
-    "timeWeek": 630,
-    "timeMonth": 513,
-    "timeYear": 513,
-    "dailyMinutesDown": {}
+    "time": 520,
+    "timeDay": 640,
+    "timeWeek": 638,
+    "timeMonth": 520,
+    "timeYear": 520,
+    "dailyMinutesDown": {
+      "2025-08-22": 1
+    }
   },
   {
     "name": "Johnstown Pointe",
