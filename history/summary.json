@@ -4,18 +4,19 @@
     "url": "https://arlington-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/arlington-care.net.ico",
     "slug": "arlington-care",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 578,
     "timeDay": 640,
     "timeWeek": 646,
     "timeMonth": 637,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-08-16": 16
     }
   },
@@ -25,17 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/austin-trace.net.ico",
     "slug": "austin-trace",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 542,
     "timeDay": 550,
     "timeWeek": 630,
     "timeMonth": 571,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-08-16": 15
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://bennington-glen.net",
     "icon": "https://icons.duckduckgo.com/ip3/bennington-glen.net.ico",
     "slug": "bennington-glen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
@@ -55,17 +57,19 @@
     "timeWeek": 600,
     "timeMonth": 598,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Capri Gardens",
     "url": "https://capri-gardens.net",
     "icon": "https://icons.duckduckgo.com/ip3/capri-gardens.net.ico",
     "slug": "capri-gardens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
@@ -73,17 +77,19 @@
     "timeWeek": 579,
     "timeMonth": 589,
     "timeYear": 544,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Countryview Sunbury",
     "url": "https://countryview-sunbury.net",
     "icon": "https://icons.duckduckgo.com/ip3/countryview-sunbury.net.ico",
     "slug": "countryview-sunbury",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 554,
@@ -91,17 +97,19 @@
     "timeWeek": 606,
     "timeMonth": 612,
     "timeYear": 554,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Crown Pointe",
     "url": "https://crown-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/crown-pointe.net.ico",
     "slug": "crown-pointe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
@@ -109,17 +117,19 @@
     "timeWeek": 611,
     "timeMonth": 597,
     "timeYear": 546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Darby Glenn",
     "url": "https://darby-glenn.net",
     "icon": "https://icons.duckduckgo.com/ip3/darby-glenn.net.ico",
     "slug": "darby-glenn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
@@ -127,17 +137,19 @@
     "timeWeek": 608,
     "timeMonth": 642,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Gables Marysville",
     "url": "https://gables-marysville.net",
     "icon": "https://icons.duckduckgo.com/ip3/gables-marysville.net.ico",
     "slug": "gables-marysville",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -145,17 +157,19 @@
     "timeWeek": 568,
     "timeMonth": 663,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Glen Meadows",
     "url": "https://glen-meadows.net",
     "icon": "https://icons.duckduckgo.com/ip3/glen-meadows.net.ico",
     "slug": "glen-meadows",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
@@ -163,25 +177,28 @@
     "timeWeek": 579,
     "timeMonth": 629,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Meadows Marion",
     "url": "https://meadows-marion.net",
     "icon": "https://icons.duckduckgo.com/ip3/meadows-marion.net.ico",
     "slug": "meadows-marion",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 573,
     "timeDay": 574,
     "timeWeek": 603,
     "timeMonth": 632,
     "timeYear": 573,
     "dailyMinutesDown": {
+      "2025-09-17": 1,
       "2025-08-22": 22
     }
   },
@@ -190,10 +207,10 @@
     "url": "https://johnstown-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/johnstown-pointe.net.ico",
     "slug": "johnstown-pointe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
@@ -201,17 +218,19 @@
     "timeWeek": 615,
     "timeMonth": 634,
     "timeYear": 575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Landingsofwesterville",
     "url": "https://landingsofwesterville.net",
     "icon": "https://icons.duckduckgo.com/ip3/landingsofwesterville.net.ico",
     "slug": "landingsofwesterville",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 558,
@@ -219,17 +238,19 @@
     "timeWeek": 613,
     "timeMonth": 628,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Maria Joseph",
     "url": "https://maria-joseph.net",
     "icon": "https://icons.duckduckgo.com/ip3/maria-joseph.net.ico",
     "slug": "maria-joseph",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 574,
@@ -237,7 +258,9 @@
     "timeWeek": 581,
     "timeMonth": 639,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-17": 1
+    }
   },
   {
     "name": "Mcnaughten Pointe",
@@ -245,18 +268,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcnaughten-pointe.net.ico",
     "slug": "mcnaughten-pointe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 567,
     "timeDay": 535,
     "timeWeek": 572,
     "timeMonth": 628,
     "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -265,18 +288,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/meadow-grove.net.ico",
     "slug": "meadow-grove",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 580,
     "timeDay": 580,
     "timeWeek": 618,
     "timeMonth": 655,
     "timeYear": 580,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -285,18 +308,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/taylors-pointe.net.ico",
     "slug": "taylors-pointe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 598,
     "timeDay": 625,
     "timeWeek": 705,
     "timeMonth": 679,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -305,18 +328,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/terrace-view.net.ico",
     "slug": "terrace-view",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 528,
     "timeWeek": 636,
     "timeMonth": 672,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -325,18 +348,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trueman-pointe.net.ico",
     "slug": "trueman-pointe",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 548,
     "timeWeek": 640,
     "timeMonth": 671,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -345,18 +368,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tuscany-gardens.net.ico",
     "slug": "tuscany-gardens",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 576,
     "timeDay": 481,
     "timeWeek": 626,
     "timeMonth": 639,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -365,18 +388,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/verandagardens.net.ico",
     "slug": "verandagardens",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 692,
     "timeDay": 562,
     "timeWeek": 646,
     "timeMonth": 667,
     "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -448,18 +471,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dayton-respiratory.net.ico",
     "slug": "dayton-respiratory",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 560,
     "timeDay": 472,
     "timeWeek": 586,
     "timeMonth": 614,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -468,18 +491,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/glenn-crossing.net.ico",
     "slug": "glenn-crossing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 605,
     "timeDay": 527,
     "timeWeek": 670,
     "timeMonth": 680,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -488,18 +511,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goldenyears-care.net.ico",
     "slug": "goldenyears-care",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 543,
     "timeDay": 596,
     "timeWeek": 619,
     "timeMonth": 602,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -508,18 +531,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hearthstone-care.net.ico",
     "slug": "hearthstone-care",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 473,
     "timeWeek": 782,
     "timeMonth": 667,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -528,18 +551,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/highbanks-care.net.ico",
     "slug": "highbanks-care",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 566,
     "timeDay": 616,
     "timeWeek": 688,
     "timeMonth": 622,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -548,18 +571,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/inniswood.net.ico",
     "slug": "inniswood",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 660,
     "timeDay": 548,
     "timeWeek": 583,
     "timeMonth": 612,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -568,18 +591,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overbrook-landing.net.ico",
     "slug": "overbrook-landing",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 591,
     "timeDay": 590,
     "timeWeek": 600,
     "timeMonth": 638,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   },
   {
@@ -1356,18 +1379,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/3.13.23.211.nip.io.ico",
     "slug": "3-13-23-211-nip-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 528,
     "timeDay": 377,
     "timeWeek": 502,
     "timeMonth": 570,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-09-17": 1
+      "2025-09-17": 8
     }
   }
 ]
