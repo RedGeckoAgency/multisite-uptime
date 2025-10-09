@@ -1,7 +1,7 @@
 url: https://austin-trace.net
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2025-10-08T23:18:25.541Z
+status: down
+code: 500
+responseTime: 164
+lastUpdated: 2025-10-09T22:20:28.308Z
 startTime: 2025-08-04T21:55:40.478Z
 generator: Upptime <https://github.com/upptime/upptime>
