@@ -1,7 +1,7 @@
 url: https://gables-marysville.net
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2025-10-08T23:18:30.978Z
+status: down
+code: 500
+responseTime: 161
+lastUpdated: 2025-10-09T22:20:41.615Z
 startTime: 2025-08-04T21:55:45.130Z
 generator: Upptime <https://github.com/upptime/upptime>
