@@ -1,7 +1,7 @@
 url: https://park-health.net
-status: up
-code: 200
-responseTime: 539
-lastUpdated: 2026-01-04T23:22:55.325Z
+status: down
+code: 500
+responseTime: 943
+lastUpdated: 2026-01-05T06:53:57.896Z
 startTime: 2025-08-04T21:56:18.520Z
 generator: Upptime <https://github.com/upptime/upptime>
