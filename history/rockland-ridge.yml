@@ -1,7 +1,7 @@
 url: https://rockland-ridge.net
-status: up
-code: 200
-responseTime: 621
-lastUpdated: 2026-01-04T23:22:57.262Z
+status: down
+code: 500
+responseTime: 1005
+lastUpdated: 2026-01-05T06:54:10.594Z
 startTime: 2025-08-04T21:56:20.559Z
 generator: Upptime <https://github.com/upptime/upptime>
