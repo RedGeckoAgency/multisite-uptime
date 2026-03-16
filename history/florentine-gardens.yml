@@ -1,7 +1,7 @@
 url: https://florentine-gardens.net
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2026-03-15T23:33:15.344Z
+status: down
+code: 500
+responseTime: 1065
+lastUpdated: 2026-03-16T05:28:56.111Z
 startTime: 2025-08-04T21:56:10.185Z
 generator: Upptime <https://github.com/upptime/upptime>
