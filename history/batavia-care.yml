@@ -1,7 +1,7 @@
 url: https://batavia-care.net
-status: up
-code: 200
-responseTime: 535
-lastUpdated: 2026-03-15T23:33:01.098Z
+status: down
+code: 500
+responseTime: 1069
+lastUpdated: 2026-03-16T05:27:59.487Z
 startTime: 2025-08-04T21:55:56.559Z
 generator: Upptime <https://github.com/upptime/upptime>
