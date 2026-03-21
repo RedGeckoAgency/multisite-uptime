@@ -1,7 +1,7 @@
 url: https://concord-ridge.net
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2026-03-20T23:32:42.478Z
+status: down
+code: 500
+responseTime: 1101
+lastUpdated: 2026-03-21T12:50:24.208Z
 startTime: 2025-08-04T21:56:07.545Z
 generator: Upptime <https://github.com/upptime/upptime>
