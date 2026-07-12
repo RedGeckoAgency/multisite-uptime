@@ -463,12 +463,12 @@
     "url": "https://admirals-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/admirals-pointe.net.ico",
     "slug": "admirals-pointe",
-    "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "99.04%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "99.01%",
     "time": 428,
     "timeDay": 279,
     "timeWeek": 796,
@@ -552,7 +552,8 @@
       "2026-06-14": 160,
       "2026-06-21": 257,
       "2026-06-22": 361,
-      "2026-06-27": 61
+      "2026-06-27": 61,
+      "2026-07-12": 191
     }
   },
   {
@@ -560,12 +561,12 @@
     "url": "https://batavia-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/batavia-care.net.ico",
     "slug": "batavia-care",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "98.37%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "87.08%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "98.34%",
     "time": 436,
     "timeDay": 298,
     "timeWeek": 423,
@@ -651,7 +652,8 @@
       "2026-06-14": 160,
       "2026-06-21": 253,
       "2026-06-22": 360,
-      "2026-06-27": 60
+      "2026-06-27": 60,
+      "2026-07-12": 186
     }
   },
   {
@@ -659,12 +661,12 @@
     "url": "https://brunswick-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/brunswick-pointe.net.ico",
     "slug": "brunswick-pointe",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "87.41%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.04%",
     "time": 439,
     "timeDay": 281,
     "timeWeek": 439,
@@ -748,7 +750,8 @@
       "2026-06-14": 160,
       "2026-06-21": 248,
       "2026-06-22": 360,
-      "2026-06-27": 59
+      "2026-06-27": 59,
+      "2026-07-12": 181
     }
   },
   {
@@ -915,12 +918,12 @@
     "url": "https://canterbury-villa.net",
     "icon": "https://icons.duckduckgo.com/ip3/canterbury-villa.net.ico",
     "slug": "canterbury-villa",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "99.06%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "87.74%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "99.02%",
     "time": 458,
     "timeDay": 296,
     "timeWeek": 384,
@@ -1005,7 +1008,8 @@
       "2026-06-14": 158,
       "2026-06-21": 243,
       "2026-06-22": 357,
-      "2026-06-27": 57
+      "2026-06-27": 57,
+      "2026-07-12": 177
     }
   },
   {
@@ -1013,12 +1017,12 @@
     "url": "https://carington-park.net",
     "icon": "https://icons.duckduckgo.com/ip3/carington-park.net.ico",
     "slug": "carington-park",
-    "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.09%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.55%",
+    "uptimeYear": "99.06%",
     "time": 372,
     "timeDay": 268,
     "timeWeek": 385,
@@ -1101,7 +1105,8 @@
       "2026-06-14": 158,
       "2026-06-21": 238,
       "2026-06-22": 357,
-      "2026-06-27": 56
+      "2026-06-27": 56,
+      "2026-07-12": 172
     }
   },
   {
@@ -1109,19 +1114,18 @@
     "url": "https://champion-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/champion-creek.net.ico",
     "slug": "champion-creek",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "98.86%",
     "time": 641,
     "timeDay": 300,
     "timeWeek": 584,
     "timeMonth": 525,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-08-07": 26,
       "2025-08-18": 73,
       "2025-08-19": 82,
       "2025-09-12": 26,
@@ -1200,7 +1204,8 @@
       "2026-05-19": 91,
       "2026-05-26": 81,
       "2026-05-27": 212,
-      "2026-06-21": 233
+      "2026-06-21": 233,
+      "2026-07-12": 167
     }
   },
   {
@@ -1208,12 +1213,12 @@
     "url": "https://claymont-health.net",
     "icon": "https://icons.duckduckgo.com/ip3/claymont-health.net.ico",
     "slug": "claymont-health",
-    "status": "up",
-    "uptime": "98.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.97%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "98.89%",
     "time": 443,
     "timeDay": 319,
     "timeWeek": 424,
@@ -1299,7 +1304,8 @@
       "2026-06-14": 158,
       "2026-06-21": 228,
       "2026-06-22": 356,
-      "2026-06-27": 55
+      "2026-06-27": 55,
+      "2026-07-12": 162
     }
   },
   {
@@ -1307,12 +1313,12 @@
     "url": "https://concord-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/concord-care.net.ico",
     "slug": "concord-care",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "98.95%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.92%",
     "time": 438,
     "timeDay": 245,
     "timeWeek": 407,
@@ -1398,7 +1404,8 @@
       "2026-06-14": 158,
       "2026-06-21": 224,
       "2026-06-22": 355,
-      "2026-06-27": 53
+      "2026-06-27": 53,
+      "2026-07-12": 157
     }
   },
   {
@@ -1406,12 +1413,12 @@
     "url": "https://concord-ridge.net",
     "icon": "https://icons.duckduckgo.com/ip3/concord-ridge.net.ico",
     "slug": "concord-ridge",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "99.14%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "89.42%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "99.11%",
     "time": 417,
     "timeDay": 251,
     "timeWeek": 378,
@@ -1495,7 +1502,8 @@
       "2026-06-14": 157,
       "2026-06-21": 219,
       "2026-06-22": 354,
-      "2026-06-27": 52
+      "2026-06-27": 52,
+      "2026-07-12": 152
     }
   },
   {
@@ -1503,12 +1511,12 @@
     "url": "https://crocker-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/crocker-pointe.net.ico",
     "slug": "crocker-pointe",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.16%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "99.13%",
     "time": 424,
     "timeDay": 289,
     "timeWeek": 423,
@@ -1592,7 +1600,8 @@
       "2026-06-14": 156,
       "2026-06-21": 214,
       "2026-06-22": 353,
-      "2026-06-27": 51
+      "2026-06-27": 51,
+      "2026-07-12": 148
     }
   },
   {
@@ -1600,12 +1609,12 @@
     "url": "https://cumberland-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/cumberland-pointe.net.ico",
     "slug": "cumberland-pointe",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "90.08%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "99.12%",
     "time": 458,
     "timeDay": 255,
     "timeWeek": 497,
@@ -1689,7 +1698,8 @@
       "2026-06-14": 156,
       "2026-06-21": 209,
       "2026-06-22": 352,
-      "2026-06-27": 50
+      "2026-06-27": 50,
+      "2026-07-12": 143
     }
   },
   {
@@ -1697,12 +1707,12 @@
     "url": "https://emerald-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/emerald-pointe.net.ico",
     "slug": "emerald-pointe",
-    "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "99.16%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "90.42%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "99.13%",
     "time": 435,
     "timeDay": 331,
     "timeWeek": 414,
@@ -1786,7 +1796,8 @@
       "2026-06-14": 156,
       "2026-06-21": 204,
       "2026-06-22": 352,
-      "2026-06-27": 48
+      "2026-06-27": 48,
+      "2026-07-12": 138
     }
   },
   {
@@ -1794,12 +1805,12 @@
     "url": "https://florentine-gardens.net",
     "icon": "https://icons.duckduckgo.com/ip3/florentine-gardens.net.ico",
     "slug": "florentine-gardens",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.17%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "90.75%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "97.77%",
+    "uptimeYear": "99.14%",
     "time": 458,
     "timeDay": 294,
     "timeWeek": 427,
@@ -1884,7 +1895,8 @@
       "2026-06-14": 155,
       "2026-06-21": 199,
       "2026-06-22": 351,
-      "2026-06-27": 47
+      "2026-06-27": 47,
+      "2026-07-12": 133
     }
   },
   {
@@ -1892,12 +1904,12 @@
     "url": "https://gardens-fairfax.net",
     "icon": "https://icons.duckduckgo.com/ip3/gardens-fairfax.net.ico",
     "slug": "gardens-fairfax",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "91.09%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.18%",
     "time": 464,
     "timeDay": 230,
     "timeWeek": 383,
@@ -1981,7 +1993,8 @@
       "2026-06-14": 154,
       "2026-06-21": 195,
       "2026-06-22": 350,
-      "2026-06-27": 46
+      "2026-06-27": 46,
+      "2026-07-12": 128
     }
   },
   {
@@ -1989,12 +2002,12 @@
     "url": "https://heritageofhudson.net",
     "icon": "https://icons.duckduckgo.com/ip3/heritageofhudson.net.ico",
     "slug": "heritageofhudson",
-    "status": "up",
-    "uptime": "98.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.15%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "91.42%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "98.13%",
     "time": 432,
     "timeDay": 225,
     "timeWeek": 567,
@@ -2081,7 +2094,8 @@
       "2026-06-14": 154,
       "2026-06-21": 190,
       "2026-06-22": 349,
-      "2026-06-27": 45
+      "2026-06-27": 45,
+      "2026-07-12": 123
     }
   },
   {
@@ -2089,12 +2103,12 @@
     "url": "https://hickory-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/hickory-care.net.ico",
     "slug": "hickory-care",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.12%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "99.18%",
     "time": 481,
     "timeDay": 359,
     "timeWeek": 457,
@@ -2176,7 +2190,8 @@
       "2026-06-14": 154,
       "2026-06-21": 185,
       "2026-06-22": 348,
-      "2026-06-27": 44
+      "2026-06-27": 44,
+      "2026-07-12": 119
     }
   },
   {
@@ -2184,12 +2199,12 @@
     "url": "https://hickory-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/hickory-creek.net.ico",
     "slug": "hickory-creek",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.14%",
-    "uptimeYear": "99.23%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "99.21%",
     "time": 587,
     "timeDay": 448,
     "timeWeek": 563,
@@ -2270,7 +2285,8 @@
       "2026-06-14": 153,
       "2026-06-21": 180,
       "2026-06-22": 347,
-      "2026-06-27": 42
+      "2026-06-27": 42,
+      "2026-07-12": 114
     }
   },
   {
@@ -2278,12 +2294,12 @@
     "url": "https://huntington-woods.net",
     "icon": "https://icons.duckduckgo.com/ip3/huntington-woods.net.ico",
     "slug": "huntington-woods",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.24%",
     "time": 423,
     "timeDay": 245,
     "timeWeek": 405,
@@ -2360,7 +2376,8 @@
       "2026-06-14": 153,
       "2026-06-21": 175,
       "2026-06-22": 347,
-      "2026-06-27": 41
+      "2026-06-27": 41,
+      "2026-07-12": 109
     }
   },
   {
@@ -2368,12 +2385,12 @@
     "url": "https://jefferson-healthcare.net",
     "icon": "https://icons.duckduckgo.com/ip3/jefferson-healthcare.net.ico",
     "slug": "jefferson-healthcare",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "99.23%",
     "time": 459,
     "timeDay": 286,
     "timeWeek": 463,
@@ -2449,7 +2466,8 @@
       "2026-06-14": 152,
       "2026-06-21": 170,
       "2026-06-22": 346,
-      "2026-06-27": 40
+      "2026-06-27": 40,
+      "2026-07-12": 104
     }
   },
   {
@@ -2457,12 +2475,12 @@
     "url": "https://keystone-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/keystone-pointe.net.ico",
     "slug": "keystone-pointe",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "99.26%",
     "time": 415,
     "timeDay": 264,
     "timeWeek": 419,
@@ -2536,7 +2554,8 @@
       "2026-06-14": 152,
       "2026-06-21": 166,
       "2026-06-22": 345,
-      "2026-06-27": 39
+      "2026-06-27": 39,
+      "2026-07-12": 99
     }
   },
   {
@@ -2544,12 +2563,12 @@
     "url": "https://lafayette-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/lafayette-care.net.ico",
     "slug": "lafayette-care",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.27%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.26%",
     "time": 460,
     "timeDay": 350,
     "timeWeek": 472,
@@ -2625,7 +2644,8 @@
       "2026-06-14": 152,
       "2026-06-21": 161,
       "2026-06-22": 344,
-      "2026-06-27": 37
+      "2026-06-27": 37,
+      "2026-07-12": 95
     }
   },
   {
@@ -2633,12 +2653,12 @@
     "url": "https://mentor-ridge.net",
     "icon": "https://icons.duckduckgo.com/ip3/mentor-ridge.net.ico",
     "slug": "mentor-ridge",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.23%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.27%",
     "time": 465,
     "timeDay": 305,
     "timeWeek": 461,
@@ -2712,7 +2732,8 @@
       "2026-06-14": 151,
       "2026-06-21": 156,
       "2026-06-22": 343,
-      "2026-06-27": 36
+      "2026-06-27": 36,
+      "2026-07-12": 90
     }
   },
   {
@@ -2720,12 +2741,12 @@
     "url": "https://millcreek-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/millcreek-care.net.ico",
     "slug": "millcreek-care",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.24%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "98.05%",
+    "uptimeYear": "99.27%",
     "time": 469,
     "timeDay": 347,
     "timeWeek": 458,
@@ -2798,7 +2819,8 @@
       "2026-06-14": 150,
       "2026-06-21": 151,
       "2026-06-22": 342,
-      "2026-06-27": 35
+      "2026-06-27": 35,
+      "2026-07-12": 85
     }
   },
   {
@@ -2806,12 +2828,12 @@
     "url": "https://huntington-court.net",
     "icon": "https://icons.duckduckgo.com/ip3/huntington-court.net.ico",
     "slug": "huntington-court",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.30%",
     "time": 450,
     "timeDay": 299,
     "timeWeek": 438,
@@ -2881,7 +2903,8 @@
       "2026-06-14": 150,
       "2026-06-21": 146,
       "2026-06-22": 342,
-      "2026-06-27": 34
+      "2026-06-27": 34,
+      "2026-07-12": 80
     }
   },
   {
@@ -2889,12 +2912,12 @@
     "url": "https://oak-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/oak-pointe.net.ico",
     "slug": "oak-pointe",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "99.32%",
     "time": 416,
     "timeDay": 288,
     "timeWeek": 413,
@@ -2963,7 +2986,8 @@
       "2026-06-14": 150,
       "2026-06-21": 141,
       "2026-06-22": 341,
-      "2026-06-27": 33
+      "2026-06-27": 33,
+      "2026-07-12": 75
     }
   },
   {
@@ -2971,12 +2995,12 @@
     "url": "https://park-health.net",
     "icon": "https://icons.duckduckgo.com/ip3/park-health.net.ico",
     "slug": "park-health",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "95.11%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.34%",
     "time": 508,
     "timeDay": 336,
     "timeWeek": 497,
@@ -3045,7 +3069,8 @@
       "2026-06-14": 149,
       "2026-06-21": 137,
       "2026-06-22": 340,
-      "2026-06-27": 31
+      "2026-06-27": 31,
+      "2026-07-12": 70
     }
   },
   {
@@ -3053,12 +3078,12 @@
     "url": "https://pinegrove-care.net",
     "icon": "https://icons.duckduckgo.com/ip3/pinegrove-care.net.ico",
     "slug": "pinegrove-care",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "99.33%",
     "time": 393,
     "timeDay": 162,
     "timeWeek": 353,
@@ -3126,7 +3151,8 @@
       "2026-06-14": 148,
       "2026-06-21": 132,
       "2026-06-22": 339,
-      "2026-06-27": 30
+      "2026-06-27": 30,
+      "2026-07-12": 66
     }
   },
   {
@@ -3134,12 +3160,12 @@
     "url": "https://riverview-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/riverview-pointe.net.ico",
     "slug": "riverview-pointe",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.36%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "99.35%",
     "time": 466,
     "timeDay": 312,
     "timeWeek": 458,
@@ -3206,7 +3232,8 @@
       "2026-06-14": 148,
       "2026-06-21": 127,
       "2026-06-22": 338,
-      "2026-06-27": 29
+      "2026-06-27": 29,
+      "2026-07-12": 61
     }
   },
   {
@@ -3214,12 +3241,12 @@
     "url": "https://rockland-ridge.net",
     "icon": "https://icons.duckduckgo.com/ip3/rockland-ridge.net.ico",
     "slug": "rockland-ridge",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "99.32%",
     "time": 639,
     "timeDay": 505,
     "timeWeek": 627,
@@ -3284,7 +3311,8 @@
       "2026-06-14": 148,
       "2026-06-21": 122,
       "2026-06-22": 337,
-      "2026-06-27": 28
+      "2026-06-27": 28,
+      "2026-07-12": 56
     }
   },
   {
@@ -3292,12 +3320,12 @@
     "url": "https://salem-woods.net",
     "icon": "https://icons.duckduckgo.com/ip3/salem-woods.net.ico",
     "slug": "salem-woods",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "99.38%",
     "time": 435,
     "timeDay": 243,
     "timeWeek": 430,
@@ -3362,7 +3390,8 @@
       "2026-06-14": 147,
       "2026-06-21": 117,
       "2026-06-22": 337,
-      "2026-06-27": 26
+      "2026-06-27": 26,
+      "2026-07-12": 51
     }
   },
   {
@@ -3370,11 +3399,11 @@
     "url": "https://saybrook-landing.net",
     "icon": "https://icons.duckduckgo.com/ip3/saybrook-landing.net.ico",
     "slug": "saybrook-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "99.22%",
     "time": 490,
     "timeDay": 345,
@@ -3441,7 +3470,8 @@
       "2026-06-14": 146,
       "2026-06-21": 112,
       "2026-06-22": 336,
-      "2026-06-27": 25
+      "2026-06-27": 25,
+      "2026-07-12": 46
     }
   },
   {
@@ -3449,11 +3479,11 @@
     "url": "https://scenic-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/scenic-pointe.net.ico",
     "slug": "scenic-pointe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.31%",
     "uptimeYear": "99.42%",
     "time": 533,
     "timeDay": 364,
@@ -3516,7 +3546,8 @@
       "2026-06-14": 146,
       "2026-06-21": 108,
       "2026-06-22": 335,
-      "2026-06-27": 24
+      "2026-06-27": 24,
+      "2026-07-12": 41
     }
   },
   {
@@ -3524,12 +3555,12 @@
     "url": "https://siena-gardens.net",
     "icon": "https://icons.duckduckgo.com/ip3/siena-gardens.net.ico",
     "slug": "siena-gardens",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.76%",
     "time": 479,
     "timeDay": 338,
     "timeWeek": 675,
@@ -3593,7 +3624,8 @@
       "2026-06-14": 146,
       "2026-06-21": 103,
       "2026-06-22": 334,
-      "2026-06-27": 23
+      "2026-06-27": 23,
+      "2026-07-12": 37
     }
   },
   {
@@ -3601,11 +3633,11 @@
     "url": "https://french-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/french-creek.net.ico",
     "slug": "french-creek",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "98.71%",
     "time": 423,
     "timeDay": 211,
@@ -3668,7 +3700,8 @@
       "2026-06-14": 145,
       "2026-06-21": 98,
       "2026-06-22": 333,
-      "2026-06-27": 22
+      "2026-06-27": 22,
+      "2026-07-12": 32
     }
   },
   {
@@ -3676,12 +3709,12 @@
     "url": "https://sycamore-run.net",
     "icon": "https://icons.duckduckgo.com/ip3/sycamore-run.net.ico",
     "slug": "sycamore-run",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "99.44%",
     "time": 599,
     "timeDay": 451,
     "timeWeek": 586,
@@ -3738,7 +3771,8 @@
       "2026-06-14": 145,
       "2026-06-21": 93,
       "2026-06-22": 332,
-      "2026-06-27": 20
+      "2026-06-27": 20,
+      "2026-07-12": 27
     }
   },
   {
@@ -3746,12 +3780,12 @@
     "url": "https://tamarack-ridge.net",
     "icon": "https://icons.duckduckgo.com/ip3/tamarack-ridge.net.ico",
     "slug": "tamarack-ridge",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.47%",
-    "uptimeYear": "99.48%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "99.47%",
     "time": 408,
     "timeDay": 245,
     "timeWeek": 408,
@@ -3805,7 +3839,8 @@
       "2026-06-14": 144,
       "2026-06-21": 88,
       "2026-06-22": 332,
-      "2026-06-27": 19
+      "2026-06-27": 19,
+      "2026-07-12": 22
     }
   },
   {
@@ -3813,11 +3848,11 @@
     "url": "https://the-preserve.net",
     "icon": "https://icons.duckduckgo.com/ip3/the-preserve.net.ico",
     "slug": "the-preserve",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "99.50%",
     "time": 505,
     "timeDay": 293,
@@ -3871,7 +3906,8 @@
       "2026-06-14": 144,
       "2026-06-21": 83,
       "2026-06-22": 331,
-      "2026-06-27": 18
+      "2026-06-27": 18,
+      "2026-07-12": 17
     }
   },
   {
@@ -3879,12 +3915,12 @@
     "url": "https://timberland-ridge.net",
     "icon": "https://icons.duckduckgo.com/ip3/timberland-ridge.net.ico",
     "slug": "timberland-ridge",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "99.51%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "99.50%",
     "time": 444,
     "timeDay": 281,
     "timeWeek": 654,
@@ -3937,7 +3973,8 @@
       "2026-06-14": 143,
       "2026-06-21": 78,
       "2026-06-22": 330,
-      "2026-06-27": 17
+      "2026-06-27": 17,
+      "2026-07-12": 12
     }
   },
   {
@@ -3945,11 +3982,11 @@
     "url": "https://venetian-gardens.net",
     "icon": "https://icons.duckduckgo.com/ip3/venetian-gardens.net.ico",
     "slug": "venetian-gardens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.31%",
     "time": 435,
     "timeDay": 298,
@@ -4006,7 +4043,8 @@
       "2026-06-14": 143,
       "2026-06-21": 74,
       "2026-06-22": 329,
-      "2026-06-27": 15
+      "2026-06-27": 15,
+      "2026-07-12": 8
     }
   },
   {
@@ -4014,11 +4052,11 @@
     "url": "https://waterview-pointe.net",
     "icon": "https://icons.duckduckgo.com/ip3/waterview-pointe.net.ico",
     "slug": "waterview-pointe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.35%",
     "time": 580,
     "timeDay": 433,
@@ -4072,7 +4110,8 @@
       "2026-06-14": 142,
       "2026-06-21": 69,
       "2026-06-22": 328,
-      "2026-06-27": 14
+      "2026-06-27": 14,
+      "2026-07-12": 3
     }
   },
   {
