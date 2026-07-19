@@ -1,7 +1,7 @@
 url: https://tamarack-ridge.net
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2026-07-18T23:56:26.778Z
+status: down
+code: 500
+responseTime: 1006
+lastUpdated: 2026-07-19T15:58:07.943Z
 startTime: 2025-08-04T21:56:25.598Z
 generator: Upptime <https://github.com/upptime/upptime>
