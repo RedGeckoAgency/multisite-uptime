@@ -1173,16 +1173,16 @@
     "url": "https://champion-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/champion-creek.net.ico",
     "slug": "champion-creek",
-    "status": "down",
-    "uptime": "98.84%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "98.83%",
+    "status": "up",
+    "uptime": "98.83%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "98.82%",
     "time": 634,
-    "timeDay": 557,
-    "timeWeek": 505,
-    "timeMonth": 535,
+    "timeDay": 472,
+    "timeWeek": 485,
+    "timeMonth": 529,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2025-09-14": 37,
@@ -1268,7 +1268,7 @@
       "2026-07-28": 122,
       "2026-08-04": 170,
       "2026-08-07": 50,
-      "2026-08-08": 1
+      "2026-08-08": 53
     }
   },
   {
