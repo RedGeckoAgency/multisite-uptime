@@ -14,7 +14,7 @@
     "timeDay": 758,
     "timeWeek": 699,
     "timeMonth": 720,
-    "timeYear": 632,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2025-09-17": 45,
       "2025-12-24": 61,
@@ -39,7 +39,7 @@
     "timeDay": 745,
     "timeWeek": 906,
     "timeMonth": 745,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-09-17": 45,
       "2025-12-24": 60,
@@ -62,7 +62,7 @@
     "timeDay": 725,
     "timeWeek": 692,
     "timeMonth": 678,
-    "timeYear": 614,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2025-09-17": 45,
       "2025-12-24": 60,
@@ -809,7 +809,7 @@
     "timeDay": 748,
     "timeWeek": 749,
     "timeMonth": 710,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-09-17": 53,
       "2025-12-24": 50,
@@ -833,7 +833,7 @@
     "timeDay": 729,
     "timeWeek": 738,
     "timeMonth": 682,
-    "timeYear": 622,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-09-17": 53,
       "2025-12-24": 50,
@@ -856,7 +856,7 @@
     "timeDay": 751,
     "timeWeek": 949,
     "timeMonth": 729,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-09-17": 53,
       "2025-12-24": 49,
@@ -880,7 +880,7 @@
     "timeDay": 728,
     "timeWeek": 793,
     "timeMonth": 729,
-    "timeYear": 606,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2025-09-17": 53,
       "2025-12-24": 49,
@@ -1173,19 +1173,18 @@
     "url": "https://champion-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/champion-creek.net.ico",
     "slug": "champion-creek",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "98.74%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "92.22%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "98.75%",
     "time": 629,
-    "timeDay": 552,
-    "timeWeek": 579,
+    "timeDay": 567,
+    "timeWeek": 526,
     "timeMonth": 524,
     "timeYear": 627,
     "dailyMinutesDown": {
-      "2025-11-19": 32,
       "2025-11-20": 19,
       "2025-11-22": 41,
       "2025-11-26": 24,
@@ -1260,7 +1259,7 @@
       "2026-08-13": 40,
       "2026-08-14": 74,
       "2026-08-15": 61,
-      "2026-08-16": 18
+      "2026-08-16": 20
     }
   },
   {
@@ -2710,7 +2709,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lafayette-care.net.ico",
     "slug": "lafayette-care",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "98.89%",
@@ -3346,7 +3345,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/riverview-pointe.net.ico",
     "slug": "riverview-pointe",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.19%",
