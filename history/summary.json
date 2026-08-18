@@ -1173,11 +1173,11 @@
     "url": "https://champion-creek.net",
     "icon": "https://icons.duckduckgo.com/ip3/champion-creek.net.ico",
     "slug": "champion-creek",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "95.20%",
-    "uptimeMonth": "95.96%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "95.18%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "98.76%",
     "time": 626,
     "timeDay": 395,
@@ -1185,7 +1185,7 @@
     "timeMonth": 517,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-11-29": 53,
+      "2025-11-29": 28,
       "2025-12-01": 20,
       "2025-12-02": 30,
       "2025-12-06": 29,
@@ -1256,7 +1256,7 @@
       "2026-08-15": 61,
       "2026-08-16": 58,
       "2026-08-17": 13,
-      "2026-08-18": 29
+      "2026-08-18": 30
     }
   },
   {
@@ -3848,7 +3848,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/french-creek.net.ico",
     "slug": "french-creek",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
